@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @JohnWickBerserker
+- 👋 Hi, I’m Sergei
 - 👀 I’m interested in C#
