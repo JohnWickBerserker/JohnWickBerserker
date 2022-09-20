@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sergei
 
-- CV: [a link](https://johnwickberserker.github.io/)
+- CV: [johnwickberserker.github.io](https://johnwickberserker.github.io/)
